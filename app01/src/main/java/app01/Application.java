@@ -14,7 +14,4 @@ public class Application {
 		EmpService service = context.getBean(EmpService.class);
 		service.getEmployee();
 	}
-	void m2() {
-		// logic
-	}
 }
